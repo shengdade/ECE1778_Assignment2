@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AssignmentTwo</string>
+    <string name="EnterNames">EnterNames</string>
+    <string name="Store">Store</string>
+    <string name="Load">Load</string>
+    <string name="View">View</string>
+    <string name="Exit">Exit</string>
+    <string name="labelName">Name</string>
+    <string name="labelNameHint">Enter Name</string>
+    <string name="labelAge">Age</string>
+    <string name="labelAgeHint">Enter Age</string>
+    <string name="labelMovie">Movie</string>
+    <string name="size_template">Size: %d</string>
+    <string name="textDone">Done</string>
+    <string name="textAdd">Add</string>
+    <string name="inputFileName">Please specify a file name:</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">cancel</string>
+    <string name="EnterFileName">Enter Name</string>
+    <string name="menu_clear">Clear People</string>
+</resources>
